@@ -1,0 +1,11 @@
+# exclude everything
+.idea
+venv
+test_images/face_dataset/*
+test_images/face_me/*
+test_images/face_results/*
+
+# exception to the rule
+!test_images/face_dataset/.gitkeep
+!test_images/face_me/.gitkeep
+!test_images/face_results/.gitkeep
