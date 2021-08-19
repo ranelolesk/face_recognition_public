@@ -23,8 +23,8 @@ Needed a way to separate the pictures of a specific person in a set of tens of t
 
 ## How to use?
 
-1) Take an image(s) of you and move to test_images/face_me
-2) Put your dataset of images into test_images/face_dataset
+1) Take an image(s) of you (or the person you are looking for) and move to test_images/face_me. These images are used to reference against the dataset.
+2) Put your dataset of images into test_images/face_dataset. This set of images is used for looking into matching faces.
 3) Run "python executable" + "main.py"
 
 ## Credits
